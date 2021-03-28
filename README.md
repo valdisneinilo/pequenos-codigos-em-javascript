@@ -1,12 +1,16 @@
 # Pequenos projetos em .JavaScript
 
-Hora do dia
+**WEB**
 
-Verificador de idade
+​		Hora do dia
 
-Contador
+​		Verificador de idade
 
-Tabuada
+​		Contador
 
+​		Tabuada
 
+**SERVIDOR**
+
+​		sistema bancário
 
